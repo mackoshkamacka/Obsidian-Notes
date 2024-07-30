@@ -1,1 +1,1 @@
-[[Political_Philosophy]]
+[[Political Philosophy]]
