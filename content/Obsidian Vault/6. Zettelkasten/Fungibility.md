@@ -1,2 +1,2 @@
-[[Western Philosophy]]
+[[Western philosophy]]
 

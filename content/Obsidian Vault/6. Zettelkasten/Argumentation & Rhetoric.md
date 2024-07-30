@@ -2,7 +2,7 @@
 Socratic method  
 
 [[Logic]]
-[[Western Philosophy]]
+[[Western philosophy]]
 
 1. God created human beings 
 2. If X creates Y, then Y is X's property 

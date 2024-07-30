@@ -1,5 +1,5 @@
 [[Ubuntu]]
-[[Western Philosophy]]
+[[Western philosophy]]
 
 "I knew as well as I knew anything, that the oppressor must be liberated just as surely as the oppressed. A man who takes away another man's freedom is a prisoner of hatred, he is locked behind the bars of prejudice and narrowmindedness ... The oppressed and the oppressor alike are robbed of their Humanity" - Nelson Mandela 
 

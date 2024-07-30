@@ -1,5 +1,5 @@
 [[Psychoanalysis]]
-[[Western Philosophy]]
+[[Western philosophy]]
 
 - Both try to understand the human condition 
 - Philosophical tradition investigates human experience through conciousness whereas psychoanalysis investigates based on the unconciousness 

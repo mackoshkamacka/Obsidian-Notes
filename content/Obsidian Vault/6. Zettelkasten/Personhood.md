@@ -5,5 +5,5 @@
 [[Tripartite Soul]]
 
 
-[[Western Philosophy]]
+[[Western philosophy]]
 

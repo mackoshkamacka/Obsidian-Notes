@@ -6,6 +6,6 @@ Exercising virtues.
 Possession of virtue
 
 [[Obscure]]
-[[Western Philosophy]]
+[[Western philosophy]]
 [[Creative]]
 [[Concept]]

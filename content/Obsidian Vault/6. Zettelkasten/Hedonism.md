@@ -1,4 +1,4 @@
 [[Hedonistic treadmill]]
 [[Rat race]]
-[[Western Philosophy]]
+[[Western philosophy]]
 [[Power]]
