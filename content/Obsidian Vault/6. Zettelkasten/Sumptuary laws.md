@@ -1,0 +1,1 @@
+The term denotes **regulations restricting extravagance in food, drink, dress, and household equipment, usually on religious or moral grounds*. ![[Pasted image 20231209121104.jpg]]

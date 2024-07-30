@@ -1,0 +1,14 @@
+	- Jumping off of a speedboat challenge
+	- TidePod OG!!!
+	- Electrocution challenge (penny)
+	- Hot coil challenge 
+	- Kia challenge 
+	- Benadryl challenge
+	- Blackout challenge
+	- NyQuil chicken challenge
+	- Coronavirus challenge 
+	- Ice cream challenge
+	- Milk crate challenge
+	- Gorilla glue girl 
+	- Corn cob challenge 
+	- Cereal challenge 

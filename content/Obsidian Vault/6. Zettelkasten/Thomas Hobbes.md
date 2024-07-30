@@ -1,0 +1,4 @@
+Inspired by the English Civil War, Hobbes argues in “Leviathan” that any form of government, structure is irrelevant, a leviathan, should have a monopoly on power simply because it prevents degradation to a state of nature similar to that of the English Civil War. This state of nature would have been "nasty, brutish, solitary, and short." To prevent against chaos, people 'devised' a system to blindly follow the order of a state. This secular agreement does not rely on the divine right of kings, instead relies on upon a [[Social contract]] of: as long as the leviathan does not outright kill the people, any violence, inefficiency and oppression should be tolerated. This inspires total obedience to the state, 
+
+*Deals with questions of [[Authoritarianism]], legitimacy of government violence, and revolution
+

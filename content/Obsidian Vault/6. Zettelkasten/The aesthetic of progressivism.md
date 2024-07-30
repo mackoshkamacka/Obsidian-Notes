@@ -1,0 +1,5 @@
+[[Progressivism]]
+[[Neoliberalism]]
+[[Girlboss Feminism]]
+[[White feminism]]
+[[Liberal (Modern)]]

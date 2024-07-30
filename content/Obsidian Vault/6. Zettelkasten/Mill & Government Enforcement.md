@@ -1,0 +1,4 @@
+#Complete 
+*Government can enforce the law if harm is being dealt - not that it necessarily should*. E.g. competition is good, thus harm is a necessary but insufficient condition for infringing on liberties.  = IMPORTANT 
+
+The Harm Principle allows for utilitarian actions (where the ends are the same and the motivation changes whether it can be performed or not). Making everyone do cardio for 30 minutes to improve their health should not be allowed, (someone's health is their own business) but forcing everyone to do cardio to reduce medical costs and improve the quality of life for other people then it is okay 

@@ -1,0 +1,2 @@
+[[Bertrund Russell]]
+[[Wittgenstein]] 

@@ -1,0 +1,1 @@
+The bible using binary to express a spectrum; Gensis chapters likening the male and the female as a spectrum - “God created night and day - dawn and dusk exist; God created land and sea - beaches and estuaries exist” Talmud - describes intersex people; 6 different sexes

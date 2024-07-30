@@ -1,0 +1,3 @@
+Magafuli and MKO Abiola having a ‘heart attack’ moments before plans to industrialize Tanzania and Nigeria’s golden oil reserves; US Ambassador, Susan Rice served MKO a cup of tea; Ken Sorrowiwa - hung by Shell; First democratically elected leadere of the Congo, Lumumba executed in a coup propped by Belgium and CIA on the orders of the Union Minary (Glencore); Contrast between congo’s economy and its natural resources, plant dictator Mobutu - similar dictators in the global south; Ogoni people; Dag Hammarskjold; UN Secretary General - JFK’s attempt at liberation - mysterious execution + similarities between leader from Sweden, Olaf Palme
+
+https://www.theblackoutstrike.com

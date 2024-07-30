@@ -1,0 +1,1 @@
+- reactionaries, confirmation bias, acting calm 'owns them' has a clever quip 

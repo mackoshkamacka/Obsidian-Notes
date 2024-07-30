@@ -1,0 +1,1 @@
+https://sph.umn.edu/site/docs/hewg/microaggressions.pdf

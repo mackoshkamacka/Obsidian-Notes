@@ -1,0 +1,1 @@
+corporations paying their 'fair share' = 50 top were legally allowed to exploit loopholes world freedom index

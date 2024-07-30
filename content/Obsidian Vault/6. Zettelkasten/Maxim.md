@@ -1,0 +1,1 @@
+Is this maxim something that everyone involved in the action could potenially agree to 

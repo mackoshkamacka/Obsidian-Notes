@@ -1,0 +1,5 @@
+- There is no meaning in the world itself 
+- Existence precedes essence 
+- Authenticity 
+- Bad faith 
+- There is no rigid moral code 

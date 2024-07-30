@@ -1,0 +1,7 @@
+[[Distributive justice]]
+[[Global Justice]]
+[[Retributive justice]]
+[[Restorative justice]]
+[[Rehabilitative justice]]
+[[Justice as harmony]]
+[[Deterrence]]

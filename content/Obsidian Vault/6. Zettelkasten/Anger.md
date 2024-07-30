@@ -1,0 +1,1 @@
+Anger is significantly easier to rationalize as a response to a larger, hostile entity: thus if someone is obviously weak, afraid etc. anger from the aggressor seems irrational. Think of enemies in video games who are designed to attack you and compare rationalizing violence (or self-defense) against an enemy t hat is obviously afraid or unwilling to fight. 

@@ -1,0 +1,1 @@
+The belief that everyone should get the same kind and amount of deserts (stuff). This disregards individual needs for a standard of needs.

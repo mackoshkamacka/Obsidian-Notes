@@ -1,0 +1,5 @@
+2024-05-2300:21
+Status: #Pseudo 
+Tags: [[Ethics]] 
+
+Another thing to note about this project was it secrecy: People born in Los Alamos had the nearest post office as their address, everyone had to have a pass. Even the president succeeding TDR after his early death, Harry S. Truman (TDR's vice president) would know nothing of this project. It was Stimson, the Secretary of War who told Truman about the bomb from a diplomatic standpoint: this is not merely a weapon to defeat Germany but a weapon that will cause a distinct turning point in US history. Fortunately, military advancement on the ground exceeded the development of the bomb, thus it could not have been used (WWII ended in 1945, The first atomic bomb was developed (US) in …). Though the Nazi military was defeated, the threat and remnants Nazism remained. This was the justification for further nuclear development.

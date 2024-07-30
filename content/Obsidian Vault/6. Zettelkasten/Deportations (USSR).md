@@ -1,0 +1,2 @@
+		- WWII USSR
+		- See "Stalin, The History and Critique of a Black Legend by Domenic Losurdo" for more 

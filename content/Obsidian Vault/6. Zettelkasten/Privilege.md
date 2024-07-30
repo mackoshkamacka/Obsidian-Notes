@@ -1,0 +1,5 @@
+[[Bigotry]]
+[[Other]]
+[[Classism]]
+[[Voluntourism]]
+[[Power]]

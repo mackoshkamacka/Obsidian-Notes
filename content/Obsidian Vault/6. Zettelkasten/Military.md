@@ -1,0 +1,5 @@
+[[Humanities]]
+[[Military spending (USSR)]]
+[[Government spending]]
+[[CIA]]
+[[Forever war]]

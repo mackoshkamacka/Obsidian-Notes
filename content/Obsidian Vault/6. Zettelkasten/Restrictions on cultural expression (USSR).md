@@ -1,0 +1,6 @@
+	- Restrictions on cultural expression 
+		- Initial strong drive for local cultural expression in the USSR 
+		- Russian language dissemination
+		- Several cultures and nations not being represented in the USSR - for instance, in Kazakhstan, Kazakhs became minorities in their own republic and the Central Committee of the Kazakh branch didn't have a single Kazakh on it.  
+		- Albania also had repressive limits on cultural expression 
+		- Bulgaria also faced similar oppression 

@@ -1,0 +1,1 @@
+Psychological unreality = collective, unconvious manifestations of mental matter border reality

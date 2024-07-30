@@ -1,0 +1,1 @@
+national resources of other nations - making American elites more wealthy

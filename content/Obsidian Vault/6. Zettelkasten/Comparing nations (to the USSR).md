@@ -1,0 +1,2 @@
+USSR started in a similar position to Brazil and framing the as the direct counterpart to American capitalism (not any other nation's) made them a target; coming from incredibly different circumstances, the US was generally ahead of the USSR. 
+For more on this see https://www.youtube.com/watch?v=nFUC0UWgdGY. 

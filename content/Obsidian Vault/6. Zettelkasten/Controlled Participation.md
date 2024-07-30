@@ -1,0 +1,1 @@
+Often in a “one party state.” Only one party is legally allowed to form a government. Other powers outlawed or only allowed minor participation in elections. Dictators justify this by insisting that multiple parties are a threat to national unity. Communist countries e.g. have historically argued that multiple parties is reflective of class struggle.

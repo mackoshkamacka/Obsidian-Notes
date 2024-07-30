@@ -1,0 +1,1 @@
+“Does the anonymity to come on the internet reveal our true selves /whats underneath the mask. Or do we put on a mask for the internet. → The internet is either not real or the realist place ever to exist”

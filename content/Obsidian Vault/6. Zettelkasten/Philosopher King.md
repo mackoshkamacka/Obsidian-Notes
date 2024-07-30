@@ -1,0 +1,2 @@
+#### Philosopher King
+A philosopher king leads with the rest of the wise aristocracy to keep potential abusers of power in check. Those who possessed virtue, and qualified as a good warrior would not necessarily have the interests of the producers in mind. Thus the role of a disinterested philosopher king, with no land, nor socioeconomic influence, would ensure that their government’s actions be moral and justified.

@@ -1,0 +1,5 @@
+		- Big brother states 
+		- Cuba with their sugar. Only recently have they started to diversify (Special period)
+		- Meat canning industry in Uzbekistan 
+		- Bulgaria 
+		- See "How the world works, by Paul Cockshott" for more

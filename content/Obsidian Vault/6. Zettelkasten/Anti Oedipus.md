@@ -1,0 +1,2 @@
+[[Capitalism]]
+[[Psychoanalysis]]

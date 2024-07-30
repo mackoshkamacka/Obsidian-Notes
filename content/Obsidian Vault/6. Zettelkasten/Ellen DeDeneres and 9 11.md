@@ -1,0 +1,3 @@
+Gerard Way watching the towers fall on 9/11 is the reason why he started MCR -> Stephanie Mayer has gone on record saying the MCR heavily inspired the Twilight series -> Twilight becomes extremely popular -> EL James writes fanfiction about it -> This fanfiction gets published into the book 50 shades of grey -> made into a movie starring Dakota Johnson -> Dakota Johnson goes on the Ellen show and talks about how Ellen was rude to her -> This was the catalyst for the flood of allegations against Ellen being abusive. 
+
+[[Butterfly effect]]

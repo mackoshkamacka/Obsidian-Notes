@@ -1,0 +1,3 @@
+Dictators are known for ruling with an iron fist. This ruthlessness and violence serves to keep a population loyal to their leader. In cases where propaganda, scapegoating and charisma have failed a dictator, it is in his best interest to scare citizens into submission.
+
+Saddam Hussein’s use of fear and terror suggest that such dictators often suffer from uncontrollable paranoia. The fear of being opposed or removed violently from power often leads to drastic measures being taken. In order to maintain control of the population, Hussein inflicted fear and terror upon his population in several forms: (public beheadings, chemical attacks, systematic rapes, torture, imprisonment of dissidents). For Hussein, in 2001, Iraqis were the largest group of refugees in the world.

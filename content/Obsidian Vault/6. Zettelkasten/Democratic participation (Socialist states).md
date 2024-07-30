@@ -1,0 +1,4 @@
+		- Although the CIA and the USSR both corroborate the fact that the USSR was democratic through the proletariat
+		- There was more room for workplace democracy as the USSR was relatively underdeveloped 
+		- Cuba and it's neighbors by Arnold August for more 
+		- How the Workers Parliament Saved the Cuban Revolution by Pedro Ross

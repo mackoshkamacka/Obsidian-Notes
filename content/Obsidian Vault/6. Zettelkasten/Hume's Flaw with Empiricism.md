@@ -1,0 +1,3 @@
+Human beings do not rationalize well. We depend on confirmation bias, begging the question and assumptions arisen from causation mistaken for correlation. These are a detriment to the rational animals argument. This is David Hume’s argument for the fundamentally irrational basis of induction. Because all induction relies on the principle of uniformity, there is no logical demonstration that the past ought to resemble the present. E.g. The sun rising yesterday, the day before that ad infinitum is not a qualifying trait of the sun itself. Therefore there is no rational was to reason that the sun will do so in the future.
+
+[[Hume]]

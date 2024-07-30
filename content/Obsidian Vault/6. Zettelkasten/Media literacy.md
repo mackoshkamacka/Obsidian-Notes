@@ -1,0 +1,1 @@
+By not questioning the media that we consume, the biases that are engrained within that media, leaves an individual with the adoption of the media beliefs to be forced upon them. - Aristotle 

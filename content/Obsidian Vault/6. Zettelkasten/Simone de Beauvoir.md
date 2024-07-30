@@ -1,0 +1,11 @@
+- Ethics of relation and action 
+- One cannot be sure if what they are doing is right or wrong
+- Power to peruse open futures
+- Freeing others broadens other peoples futures broadening the incident in turn 
+- Emphasis on oppression 
+- Our own freedom is fundamentally connected to the freedom of others
+- Oppression is a systematic negation of the promotion of others
+- Violence can be justified if to enable freedom
+- The second sex
+- Facticity and role in feminism 
+- Gender struggle precedes racial and class struggles 

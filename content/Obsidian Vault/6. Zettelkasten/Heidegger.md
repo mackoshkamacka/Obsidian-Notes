@@ -1,0 +1,7 @@
+- Phenomenology
+- Ontology revival 
+- Being and time 
+- Dasein - human being in the world 
+- Constellation of mental states 
+- He became a literal nazi <3
+- Neologisms and complex language

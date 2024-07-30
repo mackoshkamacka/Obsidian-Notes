@@ -1,0 +1,1 @@
+<div style="width: 100%;"> <div style="width: 50%; float: left;">This is column 1</div> <div style="width: 50%; float: right;">this is column 2</div> </div> 

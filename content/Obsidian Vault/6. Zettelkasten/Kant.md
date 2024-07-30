@@ -1,0 +1,9 @@
+- Romanticism 
+- German idealism 
+- Pre and post kantian eras
+- The categorical imperative 
+- The critique of pure reason 
+- The noumenal realm 
+- Phenomena 
+- 12 categories 
+- Unbelievably racist - hierarchy of four races 

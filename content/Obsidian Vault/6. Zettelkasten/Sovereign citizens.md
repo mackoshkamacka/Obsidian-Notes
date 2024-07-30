@@ -1,0 +1,1 @@
+People who 'did not agree to their [[Social contract]]' 

@@ -1,0 +1,5 @@
+[[Marcus Aurelius]] 
+[[Schopenhauer]]
+[[Seneca]]
+[[Zeno]]
+[[Epictetus]]

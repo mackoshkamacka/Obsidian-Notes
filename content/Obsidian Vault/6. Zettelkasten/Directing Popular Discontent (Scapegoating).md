@@ -1,0 +1,1 @@
+Scapegoating is most effective in times of crisis. A dictator benefits from being able to blame for socio-economic conditions/problems on a group visibly different from the majority of the population; the Other.

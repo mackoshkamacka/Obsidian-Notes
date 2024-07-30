@@ -1,0 +1,1 @@
+In Ancient Greece, a just society is one in which everyone fulfills their roles so that society runs smoothly. Therefore violation of one’s social order even if it’s a place you don’t want to hold, it is considered to be unjust.

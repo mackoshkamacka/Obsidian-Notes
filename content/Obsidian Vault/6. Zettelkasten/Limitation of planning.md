@@ -1,0 +1,7 @@
+		- Calculations were often done slowly and by hand which meant that it would take a long time to develop plans and react to the unexpected; (5 year plan)
+		- Even with the development of technologies that could communicate much easir and to a larger scale, the USSR stuck to making central committees and regional committees. 
+		- Non binding plans and becoming directives that didn't technically have to be followed
+		- Project Cybercyn
+		- Economic calculation problem (Major point of contention)
+			- https://www.youtube.com/watch?v=AVNjgLLQnSg 
+		- The Restoration of Capitalism in the Soviet Union (two books)

@@ -1,0 +1,7 @@
+2024-05-2223:06
+Status: #Pseudo 
+Tags: [[USSR & Russian History]]
+
+By the 1800s, Russia was far less industrialized than Western Europe. 80% of Russians were **serfs** and people were poor and economically depressed. Politically, the **Tsar (Czar)** ruled with absolute power. This was a dictatorship where there were no individual rights and freedoms. Czar Alexander II did try to change this in 1861 and emancipated the serfs and introduced a variety of liberal reforms (i.e. abolished capital punishment), but was slow to implement these reforms and some views them as not going far enough. As a response to this, Alexander II was assassinated in 1881, and the next Czar reversed these changes and brought forth further restrictions.
+
+From the late 1860s to early 20th century, Russian began to slowly adopt classical economic values. Industrialization came very late to Russia and as it industrialized, the gap between the rich and poor widened. Furthermore, the Russian population doubled from 50 to 100 million. The poorly treated workers began to turn to Marx’s _Communist Manifesto_ for inspiration on how to bring about change. In1898, a group of Marxists formed the Socialist Democratic Labor Party (SDLP), but the Czar banned them and many were exiled to other countries. Some notable members include: Vladimir Lenin, Leon Trotsky, and Joseph Stalin.

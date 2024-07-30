@@ -1,0 +1,4 @@
+2024-04-2511:22
+Status: #Complete 
+Tags: [[Thought Experiments]]
+In a timocratic, oligarchic ship, a dysfunctional crew over throws their tyrannical government in favor for a direct democracy. Wherein all member’s opinion is respected equally. Without their captain, they are lost and will not survive unless they make it to shore. The navigator knows how to get to the shore but as their voice carries the same weight as the other members, is ignored and the ship crashes into rocks that could have easily been avoided. Either for that reason or they were outperformed by a more charismatic leader who had no idea how to navigate, but had the ability to play off of emotional appeal. This takes issue with both representative and direct democracy, although Plato favors the former. As there is a chance that the navigator, is elected as they are the most experienced.

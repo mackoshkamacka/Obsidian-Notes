@@ -1,0 +1,7 @@
+[[Neoliberalism]]
+[[Power]]
+[[Techbro syndrome]]
+[[Exploitation of people's suffrage]]
+[[Systematic discrimination]]
+[[Urbanization]]
+[[Gentrification]]

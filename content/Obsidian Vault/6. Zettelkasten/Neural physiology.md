@@ -1,0 +1,1 @@
+Brain stem, the ventral tegmental area, the dorsal striatum, the amygdala, hedonic hot spots, nucleus accumbens 

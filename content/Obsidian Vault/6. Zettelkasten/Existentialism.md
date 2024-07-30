@@ -1,0 +1,7 @@
+[[Schopenhauer]]
+[[Kierkegaard]]
+[[Hegel]]
+[[Nietzsche]]
+[[Heidegger]]
+[[Camus]]
+[[Sartre]]

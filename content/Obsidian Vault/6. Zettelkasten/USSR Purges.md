@@ -1,0 +1,4 @@
+		- A fifth column of the Soviet Union existed attempted to bring down the Soviet government and install a military dictatorship in support of Germany (WWII); it's influence reached the military, internal security apparatus and the party
+		- Yeltsin 
+		- See what the purges during Lenin's time were like; they are the most purges throughout history looked like
+		- See "The Origins of the Great Purges" for more 

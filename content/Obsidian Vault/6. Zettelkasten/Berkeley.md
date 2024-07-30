@@ -1,0 +1,4 @@
+- Idealist metaphysics
+- A tree falling in the forest when no one is there to hear it 
+- The challenge argument - try to conceive of an object that is unconceived
+- He owned slaves (LETS GOOOO) and loved missionary schools + kidnapping indigenous children (uh oh)

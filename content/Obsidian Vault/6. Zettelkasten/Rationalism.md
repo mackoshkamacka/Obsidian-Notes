@@ -1,0 +1,3 @@
+[[Analytical philosophy]]
+[[Plato]]
+[[Descartes]]

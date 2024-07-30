@@ -1,0 +1,1 @@
+Thinks and feels nothing but acts just like a real thinking person would 

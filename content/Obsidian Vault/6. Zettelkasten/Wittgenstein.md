@@ -1,0 +1,7 @@
+- Tractatus Logico-Philosophicus
+- Philosophical investigations 
+- Logical positivism 
+- We must pass over in silence 
+- Language game = the context within a sentence
+- Language is ambiguous
+- Deconstructed questions 

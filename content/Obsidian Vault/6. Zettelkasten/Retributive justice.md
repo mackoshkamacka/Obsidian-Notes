@@ -1,0 +1,1 @@
+The only way for justice to be satisfied is for a wrongdoer to suffer in proportion to the way he’s made other’s suffer. This inspires capital punishment, fines, and incarceration. This is sometimes seen in application of [[Welfare maximization]]

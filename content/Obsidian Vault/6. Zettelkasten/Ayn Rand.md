@@ -1,0 +1,6 @@
+- Objectivism 
+- Atlus shrugged 
+- Selfishness is good and altruism is evil 
+- Helping is futile 
+- Colonialist
+- Gay ppl are immoral 

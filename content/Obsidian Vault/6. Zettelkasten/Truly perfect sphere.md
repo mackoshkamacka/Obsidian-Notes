@@ -1,0 +1,1 @@
+It has no contact area so it generates infinite pressure and is untouchable 

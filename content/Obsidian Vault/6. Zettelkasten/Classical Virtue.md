@@ -1,0 +1,4 @@
+#### Classical Virtue
+In Athens/Ancient Greece, aristocracy was composed of citizen land-owner. They had motive to defend their nation as they were in turn defending their land. However, not all land-owners provided military services and thus were not fit to lead and govern. (Plato argued that if they are unwilling/unable to defend the land that they owned, why should the be responsible for controlling other people’s land/advocating for the further acquisition of etc.)
+
+The best people are those who qualify as warriors: Men who trained and educated. The best warriors would hail from aristocracy as they were the ‘most’ temperate, logical and experienced - where it mattered.

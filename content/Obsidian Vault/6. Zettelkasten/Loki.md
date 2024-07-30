@@ -1,0 +1,23 @@
+- History + being a scapegoat and using trickery to get out of a situation he was forced into by his superiors 
+- Kind of a Jesus figure
+- Mother of monsters
+- Prophecy 
+- Relationship with Odin 
+- Cleansing Armageddon (Ragnarök)
+- Killing Balder 
+- Causing the literal apocalypse was seen as a good thing 
+- Having a necessary role/Satan parallel (bad interpretation)
+- Loki is never a snake 
+- Sometimes male/female - OG of the trans trickster narrative (NOOOOO)
+- Ragnarök was seen as a tragedy and all Loki's fault rather than a cleansing of the god's misdeeds. Incorrectly made Loki into a Lucifer parallel 
+	- Characterized as a snake/serpent, indirect inciter of Ragnarök, less comedic and more malevolent (steals from pop culture Satan), his bad actions with unintended results are framed as moral betrayals to the gods, all heroic acts are downplayed.  ---- Make him evil for no reason lol 
+	- New characterization made him manipulative (cant manipulate himself out of a box - story of geirror, skaldskaparmal -SP)
+- Less common, rebel antihero Loki
+	- Popular in modern writing
+	- Corruption of the Aesir is highlighted, providing moral justification for Loki
+	- Sympathetic framing highlights his qualities and day-saving
+	- Focus on torment by the Aesir
+	- Sometimes killing balder is framed as being necessary and or justified
+- He wasn't really the god of anything (Trickery and thieving were kind of just his personality traits) - entangler, lock, net, cobweb, spider = what the etymology of his name suggests
+- One of the most splintered gods with some of the most deviation ** The role of a god changes as society changes and thus their depiction also changes. As Loki was prevalent during Norse (barely any written text) /Roman empire there is a bit of unclarity 
+[[Mythology]]

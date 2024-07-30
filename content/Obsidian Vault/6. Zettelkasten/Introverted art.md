@@ -1,0 +1,2 @@
+[[Extroverted art]]
+[[Ambivert art]]

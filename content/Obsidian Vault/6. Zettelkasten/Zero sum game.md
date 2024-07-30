@@ -1,0 +1,2 @@
+A zero sum game is a mathematical representation in game/economic theory. Wherein the advantage of one is the disadvantage of another. The net change in position for all parties is 0. This creates a strictly competitive game or framework. E.g. chess; to win is to capture the opponent's pieces - the sum of the scores is 0; slicing a larger slice than your fair share results in someone else having less. 
+

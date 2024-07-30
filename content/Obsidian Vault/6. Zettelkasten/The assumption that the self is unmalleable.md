@@ -1,0 +1,2 @@
+[[Eugenics]]
+[[Nature vs. nurture]]

@@ -1,0 +1,1 @@
+An object being observed collapses 

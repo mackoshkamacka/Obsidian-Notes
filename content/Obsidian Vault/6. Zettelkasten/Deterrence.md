@@ -1,0 +1,1 @@
+Rather than making a wrongdoer suffer for what they have done, supporters of deterrence see punishment as a being for the good of society as a whole. Sometimes, we punish people to send a message to other people. - This is often used as a means of fear mongering.

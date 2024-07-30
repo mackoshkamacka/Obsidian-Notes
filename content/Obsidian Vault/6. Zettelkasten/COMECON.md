@@ -1,0 +1,4 @@
+2024-05-2300:13
+Status: #Complete  
+
+Council for Mutual Economic Assistance (COMECON) was composed of Soviet Union, and the Eastern European allies (Poland, East Germany, Czechoslovakia, Hungary, Romania, Bulgaria, (later Albania, and Cuba)). They focused on economic planning, and international exchange of resources, technology, specialized labor, and general investment within the socialist bloc. This lead to specific nations having specialized industries and dependance on the other rest of the bloc (if a nation only produced metal, they would have to economically depend on the rest of the bloc for agriculture, soft products etc.) The also participated in trade agreements to facilitate the exchange of goods and services, while promoting joint project investments to "maximize" industry over a the allied nations. This bloc dissolved with the Soviet Union in 1991.

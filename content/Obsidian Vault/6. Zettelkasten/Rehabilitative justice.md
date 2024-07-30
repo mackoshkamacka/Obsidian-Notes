@@ -1,0 +1,1 @@
+Giving wrongdoers help, so they can learn how to get along with society and follow its rules. This is criticized as being paternalistic: that there is a problem with the individual rather than the society that procured a criminal.
