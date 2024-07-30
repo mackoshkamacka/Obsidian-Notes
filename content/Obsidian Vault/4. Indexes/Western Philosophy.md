@@ -4,7 +4,7 @@
 
 [[Aristotle]]
 
-[[Political Philosophy]] = How we would theoretically best arrange our collective life 
+[[Political_Philosophy]] = How we would theoretically best arrange our collective life 
 [[Analytical philosophy]] = 
 
 
