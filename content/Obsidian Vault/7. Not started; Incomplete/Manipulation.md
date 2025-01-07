@@ -1,6 +1,12 @@
 2024-06-2700:04
 Status: #Incomplete 
 
+
+
+
+
+
+
 Gaslighting
 Guilt-tripping
 Isolation

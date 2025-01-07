@@ -1,0 +1,2 @@
+[[Hedonism]]
+[[Informal logical fallacy]]

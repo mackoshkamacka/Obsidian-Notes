@@ -1,2 +1,0 @@
-[[Jungian Perception]]
-[[Collective unconsciousness]]

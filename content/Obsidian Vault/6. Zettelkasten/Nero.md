@@ -1,4 +1,5 @@
-### Life 
+[[Power]]
+# Life 
 #### Early life 
 Great great grandson to Augustus, father was Gnaeus, mother was Agrippina
 Gnaeus died while Agrippina was pregnant and was then adopted by emperor Claudius

@@ -1,0 +1,1 @@
+"I like it when you're weak, so I don't have to be strong." mentality

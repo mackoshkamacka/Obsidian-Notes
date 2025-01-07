@@ -5,3 +5,7 @@ Status: #Complete
 [[Mechanics]]
 [[Thermodynamics]]
 [[Electrodynamics]]
+[[Symmetry (physics)]]
+
+
+shm 

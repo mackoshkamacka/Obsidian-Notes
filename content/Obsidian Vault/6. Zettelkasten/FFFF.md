@@ -1,1 +1,0 @@
-Fight, flight, fawn, freeze

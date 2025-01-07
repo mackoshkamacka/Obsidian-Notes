@@ -2,17 +2,12 @@
 Status: #Organize 
 Tags: [[Economics]] 
 
-Where political philosophy is concerned with how we *should* arrange our collective lives, [[Sociology]] is concerned with what can be observed about our collective lives. A general way to view political ideologies is to measure how [[Collectivism]] vs. [[Individualism]] are prioritized and under which contexts; or into [[Left-wing]] and [[Right-wing]]. 
-### Graphs and Overview Visuals
+Where political philosophy is concerned with how we *should* arrange our collective lives, [[Sociology]] is concerned with what can be observed about our collective lives. A general way to view political ideologies is to measure how [[Collectivism]] vs. [[Individualism]] are prioritized and under which contexts; or into [[Left-wing]] and [[Right-wing]].
 
 ![[0dnud7gl5es41.webp]]
-
-![[History-of-Philosophy (1).jpg]]
-
 ### Concepts and Sub-Topics
 [[Justice]] 
 [[Overton window]]
-
 ### Philosophers 
 [[Plato]] = Forms, Government, Eudaemonia 
 [[John Stuart Mill]] = On Liberty & Utilitarianism 
@@ -58,3 +53,7 @@ Where political philosophy is concerned with how we *should* arrange our collect
 [[Mussolini]]
 [[Transhumanism]]
 [[Ubuntu]]
+### Overview
+
+![[History-of-Philosophy (1).jpg]]
+

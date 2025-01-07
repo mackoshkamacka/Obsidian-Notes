@@ -9,6 +9,12 @@ The most stable arrangement of electrons can be found in group 0 (VIII), of the 
 
 The rearrangement of valance electrons to form chemical bonds tend to result in the formation of very strong bonds. The energy required to break these bonds, the bond dissociation enthalpy is defined as the enthalpy (energy/mol) required to break the bonds of 1 mole of bonded atoms. The larger the value, the stronger the bond.
 
+### Electronegativity 
+Electronegativity is the tendency for an atom to attract shared electrons (or electron density) when forming a chemical bond. Generally when the difference is large, (often a metal/non-metal) the bond is ionic, contrarily, smaller differences entail a covalent bond. There is no hard cut off between ionic and covalent: as it gets ambiguous higher chemistry needs to be used to differentiate the two kinds of bonds. 
+
+![[1-difference-between-covalent-and-ionic-bonding-has-to-do-with-difference-in-electronegativity-between-two-atoms-.gif]] 
+![[Pasted image 20240909154958.jpg]]
+![[Pasted image 20240909152654.jpg]]
 ### Dissociation enthalpy table
 
 |Compound or element and formula|Atom types|Bonding type|Dissociation enthalpy (kJ/mol)|
@@ -24,7 +30,7 @@ The rearrangement of valance electrons to form chemical bonds tend to result in 
 |Tungsten, W|Metal|Metallic|845|
 
 ## 2.1 Ionic bonding
-
+What differentiates ionic compounds from covalent bonding is the electrostatic difference in potential between two atoms. Generally high potentials are ionic and generally low potentials are covalent. There is no hard cut off, and is more of a prediction of nature than anything. 
 ### Types of elements:
 An element is a substance made up of atoms of the same type. The majority of the naturally occurring elements are metals and are found on the leftmost part of the periodic table (except for hydrogen). Non-metals tend to be on the right of the periodic table.
 ### Metallic properties
@@ -54,7 +60,7 @@ The most stable arrangement of ions for any particular compound will be one in w
 
 ![[IonicCharge2.jpg]]
 ### Trends for ionic charge for transition metals
-Transition metals tend to lose electrons when forming ionic compounds; however, their more complex electron arrangement means that they can generally from more than one type of ion. Fir instance, iron can form a 2+ charge and a 3+ charge.
+Transition metals tend to lose electrons when forming ionic compounds; however, their more complex electron arrangement means that they can generally from more than one type of ion. For instance, iron can form a 2+ charge and a 3+ charge.
 ### Naming and formula conventions for ionic compounds
 - When naming an ionic compound, cation is generally written first, followed by the anion. (E.g. Sodium chloride, NaCl) (The exceptions to this are salts of organic acids such as sodium ethanoate, $CH_3COONa$)
 - As compounds do not carry an overall charge, it is necessary to balance the charges of the anion and cation components. (E.g. $NaCl, MgO, KOH, CaCO_3, HNO_3$)
@@ -102,6 +108,7 @@ Malleability is the ability to be beaten into shape without breaking. The deloca
 ## 2.3 Covalent bonding
 
 ### Chemical bonding
+
 A chemical bond is generally defined as being the emergence of a more stable state as a result of the rearrangement of valance electrons. A more stable chemical state is one of a lower chemical energy, where chemical potential energy is the sum of the chemical potential energy and their kinetic energy. The electrostatic attraction between the electrons and the nuclei is the major source of chemical potential energy.
 
 However as two or more atoms approach each other, they begin to repel, this is also true for their valance electrons. These repulsive forces also increase the chemical potential energy within the system. At a certain point, when oppositely charged ions are attracted to one another, the potential decreases. The ideal distance where the valance electrons are attracted to the nuclei but have the minimum repulsion by other electrons and the nuclei are have a similar relationship with other nuclei, is where the chemical potential is lowest and where the chemical bond forms.
@@ -127,7 +134,13 @@ When covalent bonds form, they fill the octets of all elements involved.
 - Double bond (when 2 electrons from each atom are shared)
 - Triple bond (when 3 electrons from each atom are shared)
 - Lone pair; non-bonding pair (when a pair of electrons exist only on one atom and don’t bond with another atom; and have significant implications for the properties of an element)
-## Lewis structures
+### Formal Charges 
+Formal charges measure the "electron deficiency" of a certain atom in a covalent molecule. It assumes that each electron in a bond is shared equally by each bonding atom (e.g. fluorine pulls at electrons as hard as hydrogen in $HF$). 
+$$FC = VE-LP-\frac 1 2 BE  $$
+Where $FC$ is the formal charge, $LP$ is the number of lone pair electrons, and $BE$ is the amount of bonded electrons (the reason only 1/2 is considered is because it has "1/2" of each electron in the bond="sharing"). 
+### Oxidation States 
+Given that oxygen has an oxidation state of -2 in all molecular substances (excluding peroxides), and hydrogen has an oxidation state of +1 in all molecular substances, (excluding hydrides), find the relative charge on an atom such that the net charge = the overall charge of the molecule. 
+### Lewis structures
 Electron shell, Lewis, electron dot structures and diagrams, can be drawn to represented the electron configuration within an atom; representing its bonds and having all valance electrons represented. Bonds can be represented using dashes or two dots/crosses, where 1 dash is 2 electrons.
 
 ![[Covalent-Bond-Examples.jpg]]
@@ -142,26 +155,16 @@ Diatomic molecules are molecules composed of two of the same elements; examples 
 A triple covalent bond between nitrogen atoms is very strong and explains why nitrogen is a relatively unreactive gas. It requires 945kJ/mol to break its bonds (for the sake of comparison, chlorine gas requires 242 kJ/mol). The amount of energy required to break a bond is the dissociation enthalpy for a substance, measured in kJ/mol. Additionally the bonding length of a triple nitrogen bond with itself, 109pm, is significantly shorter than that of a chlorine chlorine bond, 199pm.
 
 (Bond length is the distance between two nuclei, when in its most stable state (has the least chemical energy))
-### Shapes of molecules:
-Lewis diagrams are useful for learning what a covalent bond is, but it has several flaws, the preferred way to represent a molecule’s arrangement and its structure is using its structural formula.
-
-Bonds are only represented using a line and their placement on the atoms matters. This is done to ensure that the diagram actually looks like the molecule depicted.
-
-Non-bonding electrons are represented the same as in Lewis dot diagrams.
 
 ### VSEPR (Valance Shell Electron Pair Repulsion)
-Due to electron repulsion, the electrostatic repulsion of pairs of electrons determine the geometry of the atoms in the molecule. The non-bonding pairs and bonding pairs of electrons are arranged around the central atom to minimize the repulsion of electrons. The relative magnitude of the strength of each kind of repulsion is:
+Lewis diagrams are useful for learning what a covalent bond is, but it has several flaws, the preferred way to represent a molecule’s arrangement and its structure is using its structural formula. Bonds are only represented using a line and their placement on the atoms matters. This is done to ensure that the diagram actually looks like the molecule depicted. Non-bonding electrons are represented the same as in Lewis dot diagrams.
 
-Non-bonding pair — non-bonding pair > bonding pair — non-bonding pair > bonding pair — bonding pair.
+Due to electron repulsion, the electrostatic repulsion of pairs of electrons determine the geometry of the atoms in the molecule. The non-bonding pairs and bonding pairs of electrons are arranged around the central atom to minimize the repulsion of electrons. The relative magnitude of the strength of each kind of repulsion is:  Non-bonding pair — non-bonding pair > bonding pair — non-bonding pair > bonding pair — bonding pair. When taking this into account, the bonding angle of atoms changes and is best seen when examining examples.
 
-When taking this into account, the bonding angle of atoms changes and is best seen when examining examples.
-
-![[hcn-lewis-structure-with-angles.png]]
-
-![[jik.png]]
-
-![[Screenshot (10).png]]
-### Trigonal planar bonds
+![[vsepr-chart-table.avif]]
+![[Pasted image 20241013123037.jpg]]
+#### More on specific bonds: 
+##### Trigonal planar bonds
 These bonds form as a result of having a 3- charge on the central atom, bonding with three other atoms and the central atom having no lone pairs. Examples include: $BF_3 , SO_3$ and takes the general form, $AX_3$.
 
 In the unusual case of boron trifluoride $BF_3$ to fill boron’s octet it only requires 6 electrons in its outermost shell.
@@ -179,37 +182,22 @@ These have a bonding angle of $120 \degree$
 ![[trigonalplanarpic5.png]]
 
 ![[Hybridization-of-SO3.png]]
-### Tetrahedral bonds
+##### Tetrahedral bonds
 These bonds are a result of the central atom having 4 bonding electrons, bonded to 4 atoms (often with a single bond) and no lone pairs on the central atom. Carbon is a common central atoms for these kinds of bonds.
 
 An example of such a bond is methane, $CH_4$. As carbon is in group IV, it has 4 valance electrons; four bonding electrons. In order to minimize repulsion each bonded hydrogen is as far away from each other in a 3D space. This entails the bond angle for H-C-H bond to be $109.5 \degree$
 
 ![[Untitledkjkn.png]]
-### Bent liner (V-shaped) bonds
+##### Bent liner (V-shaped) bonds
 These bonds are a result of having two bonds with a central atom and two lone pairs of electrons. These molecules have the general formula of $AX_2.$ Examples include $H_2O, H_2S$ where both central atoms form single bonds with hydrogen. The resulting angle for the bond X-A-X is $104.5 \degree$
-### V shaped bonds
-Anther version of the bent linear bonds are the V-shaped bonds. However they differ as the central atom only has one lone pair of electrons. They have two bonds and one pair of electrons. This results in V shaped bonds having a general formula of $AX_2$ and a bonding angle of $117 \degree$. An example of this is, $SO_2$.
-### Trigonal Pyramidal
+##### V shaped bonds
+Another version of the bent linear bonds are the V-shaped bonds. However they differ as the central atom only has one lone pair of electrons. They have two bonds and one pair of electrons. This results in V shaped bonds having a general formula of $AX_2$ and a bonding angle of $117 \degree$. An example of this is, $SO_2$.
+##### Trigonal Pyramidal
 These bonds are a result of the central atoms having 3 bonding electrons and one lone pair. However, it does have a similar general formula to the trigonal planar, $AX_3$, but because there is a lone pair, the X-A-X bonds will have a bonding angle $107 \degree$. For example, in an ammonia molecule, $NH_3$, nitrogen only needs to bond with three other atoms (single bonds) to have a complete octet. But due to nitrogen’s lone pair the bonds get ‘pushed down. The shape is similar to the tetrahedral shape but without a bond and at a slightly smaller angle. Another example of this kind of bond is $NF_3$.
 
 ![[jiniughu.png]]
 
-### Summary of VSEPR molecular chapes:
-
-|Shape|Bond angle|General form|Number of negative charge on central atom|Number of bonding pairs on the central atom|Number of non-bonding pairs on the central atom|Example|
-|---|---|---|---|---|---|---|
-|Linear|180|AX2, X2|2|4|0|SO2, HCN|
-|Trigonal planar|120|AX3|3|3|0|BF3, SO3|
-|V-shaped|117|AX2|3|4|1|SO2|
-|Tetrahedral|109.5|AX4|4|4|0|CH4, CCl4|
-|Trigonal pyramidal|107|AX3|4|3|1|NH3, NF3|
-|Bent linear (V)|104.5|AX2|4|2|2|H2O, H2S|
-### Other examples: Carbon monoxide $CO$
-Carbon atoms need to share four electrons to fill their shell, and oxygen atoms only need to share two electrons to fill their respective outer shells.
-
-![[jhjghj.png]]
-
-## Electronegativity and bond polarity:
+### Electronegativity and bond polarity:
 Electronegativity is a measure of the ability of an atom to attract the electrons in a bond. Electronegativity is the highest at the top left of the periodic table. As the valance shell of electrons is closest to the nucleus in smaller atoms. Elements that are closer to filling their shell are better at ‘taking away’ electrons to become stable. The most electronegative element is fluorine. (Group 0 (VII) have already completed filling their valance shells and have an undefined electronegativity)
 
 Comparisons between electronegativity values can be used to make generalizations about the type of bonding and types of atoms forming a bond. Elements such as fluorine and oxygen have higher electronegativities. The difference in electronegativity is the strength at which the element with a higher electronegativity pulls the electron that is shared in a bond. For diatomic molecules or bonds that are of equal strength, the difference in the atoms’ electronegativity is 0.
@@ -237,15 +225,15 @@ However, in the case of chloromethane, $CH_3Cl$, there is a significantly larger
 
 ![[isjfi.png]]
 
-## 2.4 Covalent bonding and network lattices
+### 2.4 Covalent bonding and network lattices
 Several elements exist in different structural forms. For instance carbon, exists as diamond, graphite and fullerene, $C_{60}$. Different structural forms are allotropes.
-### Diamond
+#### Diamond
 Diamonds are hard, non-conductive, clear solids that are used to cut hard materials (including other diamonds), and as jewelry (very unpleasant history + not relevant) The structure of a diamond is a result of carbon bonding with other carbon atoms in a tetrahedral fashion. All four of a given carbon’s valance electrons are used to bond with other carbon atoms. This is a contributing reason why diamond is non-conductive (electricity). Because the bonding forces within diamonds are strong, it is a hard substance (having a Moh of 10) and the energy required to break these bonds and turn diamond into a gas (sublime the substance), diamond must be at $3550 \degree C$.
 
 ![[ijn.png]]
 
 In order to cut a diamond, the cleavage plane, must be found; it is found at a specific angle as to cleave the diamond and not shatter the diamond (similar to a domino effect)
-### Graphite
+#### Graphite
 Graphite is a soft, greasy solid that is a good conductor of electricity. Common applications include, pencil ‘lead’, inert electrode in dry cells, and parts of a composite material used in the strings of tennis roquettes. It is also used as a moderator in nuclear reactions, used in mechanics and sports.
 
 In the giant covalent structure of graphite, a given carbon atom is bonded to 3 other carbon atoms, leaving one unattached electron, in between the layers of graphite.
@@ -253,11 +241,11 @@ In the giant covalent structure of graphite, a given carbon atom is bonded to 3 
 ![[eiurj.png]]
 
 The delocalized electron is free to move around, and is the reason why graphite is conductive (and explains why diamond is not.) With only the weak Van der Waals forces keeping the layers of carbon together, it is easy for layers to slide on top of each other. Because the bonding within the layers is strong, it similarly has a high melting point of $3730 \degree C$.
-### Fullerenes (buckyballs)
+#### Fullerenes (buckyballs)
 There is one free electron per carbon atom in this molecule. Allowing these molecules to conduct electricity, are superconductive, used int the production of micro-scale semiconductors, used in electrochemical devices and broad-spectrum lasers.
 
 ![[C60_Molecule.svg.png]]
-### Silicon and silicon dioxide
+#### Silicon and silicon dioxide
 Similar to carbon, silicon is a group 4 element, which allows it to create a tetrahedral lattice network, similar to diamond. Silicon crystals are dark blue-grey and is well known for its ability to bond with $B, Ga, As$ and become a semiconductor. As $Si-Si$ has a bonding length of 235.2pm, ($C-C$ bonds have a bond length of 142.6pm), the bond strength is less and consequently has a lower melting point than that of diamond
 
 Silicon dioxide, $SiO_2$ or silica, is a major part of sand, and is used to make glass. It is a network covalent structure made up of 1 $Si$ for every 2 $O$. Silica is found in sandstone, silica sand, and quartzite. In its crystal form, it is known as quartz.
@@ -306,6 +294,4 @@ Ammonia, $NH_3$, similarly to water, has a relatively high boiling and melting p
 ![[esxrdcfvgbhnj.png]]
 ![[gvhb.png]]
 ![[bhg.png]]
-## Summary:
-![[hhbkjlm.png]]
-![[imfs.png]]
+

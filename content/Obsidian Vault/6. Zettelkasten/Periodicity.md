@@ -1,5 +1,85 @@
 2024-07-1519:18
 Status: #IBnotes 
+## 3.0 History of the periodic table
+Gaps were left in the periodic table as Mendeleev believed that there should be an element between two, and filled them in once they were discovered.
+## 3.1 The periodic table
+### The modern periodic table
+The periodic table is organized such that the following characteristics can be determined by their position on the periodic table.
+- The elements are arranged in order of increasing atomic number
+- There is a division between metals and non-metals.
+    - The metallic elements are located left of the division, having a relatively low amount of valance electrons.
+    - Non metals are on the right of the division, having a relatively high amount of valance electrons.
+- Vertical columns, groups are distinguished using roman numerals, I to VIII (skipping transition metals) - IB uses 1 to 7 and group 0 being VIII. (IUPAC uses 1-18 to include the transition metals)
+- Horizontal rows are the periods and are numbered 1 through 7. An element belongs to a period that matches the number of its outer shell, n. Elements in the same period have the same amount of ‘shells’ occupied by electrons.
+- Hydrogen doesn’t fit neatly anywhere on the periodic table, but is typically found in group 1.
+- The group number of an element is the amount of valance electrons it has. (up to Z =20 for SL)
+    - Group 1 metals for instance, $Li, Na, K$ all have 1 valance electron.
+    - Electron configuration and valance electrons are reserved for HL
+
+![[Periodic-Table-Families.jpg]]
+## 3.2 Physical properties of the elements:
+
+*This does not apply too well to transition metals.
+
+Physical properties such as atomic radii, first ionization energies and melting points are examples of physical properties that experience  periodicity, a repeating pattern or trend on the periodic table. A physical property is a characteristic that can be found without changing the chemical composition. For example, the melting point of an element can be found by determining the temperature at which it turns from a solid to a liquid. The element doesn’t chemically change.
+## Atomic trends
+
+![[PeriodicTable_AtomSizes-56a131193df78cf772684720.png]][The Periodic Table and Periodic Trends](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-the-periodic-table-and-periodi.html)
+### Atomic radius, AR
+Atomic radius is the distance from the center of the nucleus to the outermost region. This is measured by the distance between two adjacent atomic nuclei.
+The metallic radius is the size of an
+- The Bohr model has orbits, thus the radius can be measured easily however, we know that this model is highly simplistic as electrons are found in orbitals.
+- The way to find the radius is to measure the distance between two atoms in a diatomic molecule, $X_2$ and divide the distance between them by two; $R = \frac 1 2 d$.
+- The atomic radius increases as the effective nuclear charge, $Z_{effective}$ increases as the electrons get closer to filling their ‘shell’. A higher $Z_{Effective}$ results in a higher attraction, pulling the electrons closer to the nucleus. (Where $Z_{Effective}$ is the net positive charge from the nucleus that an electron can ‘feel’ attractions from. The core electrons are said to shield the valence electrons from the full force of the protons)
+- The atomic radius increases down the group from top to bottom as there are more shells ‘blocking’ the valence electrons from the nucleus, This results in the outer shell being further from the nucleus and having a larger atomic radius.
+
+![['p;oilukyj.png]]![[oilgfdgsh.png]]
+
+### Ionization energy, IE
+Ionization energy is the energy required to remove the highest energy electron from a neutral atom. And has the opposite correlation to electron affinity, EA and atomic radius, AR. (First ionization energy). Additionally, ionization energy increases with electronegativity as the more energy required to take away an electron strongly attracted to its nucleus, the more energy is going to be require to take it away.
+
+- In general, ionization energy increases across the period and decreases down a group.
+- Across a period, $Z_{Effective}$ increases as electron shielding remains constant. This pulls the electron cloud closer to the nucleus and strengthens the nuclear attraction to the outer-most electron. This make it more difficult to the (Additionally because the AR is smaller, and held more tightly there is a ‘higher attraction’. This lends to the the electrons being held more tightly and requiring more energy to be taken off)
+- Down a group, the number of energy levels increase and the distance is greater between the nucleus and the highest energy electron. The increased weakens the nuclear attraction to the outer-most electron, and is easier to remove.
+
+The first ionization energy is the energy required to remove the highest energy electron (1 electron). This can be represented as
+
+$$ X_g \rightarrow X_g^++e^- $$
+
+### Electronegativity
+Electronegativity is the measure of the ability of an atom in a bond to attract electrons to itself.
+
+In general, metals have few electrons in their outermost shell, and consequently lose tend to lose their electrons in reactions. Because of this they have a low electronegativity i.e. they are more willing to give up electrons than to hoard them. Non metals have an opposite tendency, the reason for this is outline below.
+
+- Electronegativity increases across a period and decreases down a group; similarly to the trends of ionization energy, IE.
+- Towards the left of the table, valance shells are less than half full, so these atoms (metals) tend to lose electrons and have a low electronegativity (meaning they would rather give off their highest energy electron than take another). Consequently, towards the right of the table, valance shells are more than half full and have a tendency to gain electrons and complete their shell.
+- Down a group, the number of energy levels increases, and so does the distance between the nucleus and the outermost orbital. The increased distance and the increased shielding weaken nuclear attraction. Thus the atom cannot attract electrons as effectively. (As the atomic radius increases, electronegativity decreases)
+- Fluorine is the most electronegative element whereas (Eka)francium has the least electronegative attraction.
+### Trends across period 3
+Properties of elements within periods are more variable than properties within groups. This can be seen in the following graphs:
+
+![[dffddgfgfdgfd.png]]
+
+![[ssfdsgf.png]]
+## 3.3 Chemical Properties of elements and their oxides
+Just as the physical properties exhibit a periodicity, within groups and periods, so do the chemical properties of the elements and some of their compounds. The chemical properties relate to the electron arrangement of the elements.
+### Trends in chemical properties within a group
+Because the alkali metals have a low ionization energy and electronegativity, they are violently reactive to the point where they need to be stored in oil (As they react with water). The reactivity of alkali metals increase down the group. The easier a substance loses electrons the better a reducing agent they are (lr), similarly the better a substance is at taking electrons, the better oxidizing agent they are, (go); explored more in unit 10. The halogens get more reactive as the period number decreases, making fluorine the most reactive halogen, the most oxidizing agent.
+### The oxides of period 3 elements
+All the period 3 elements react with oxygen and depending on the electronegativity of the period 3 element, the nature of the aqueous solution changes. For instance, $Na_2O_{(aq)}$ and $MgO_{(aq)}$ are both acidic as they are ionic whereas $P_4O_{10(aq)}$ and $SO_{3(aq)}$ are both alkaline as they are covalently bonded. When the oxides react with water, the ease at which they produce The more metallic in nature a period 3 element is the stronger it acts as an acid, the more non-metallic, the more alkaline it acts. This forms a kind of spectrum where metalloids such as aluminum are amphoteric, acting both as an acid and a base.
+
+Alkaline reactions:
+- $Na_2O_{(s)}+H_2O_{(l)} \rightarrow 2NaOH_{(aq)}$
+- $MgO_{(s)}+H_2O_{(l)} \rightarrow Mg(OH)_{2(aq)}$
+
+Acidic ration
+- $P_4O_{10(s)}+6H_2O_{(l)} \rightarrow 4H_3PO_{4(aq)}$
+- $SO_{3(g)}+H_2O_{(l)} \rightarrow H_2SO_{4(l)}$
+
+Amphoteric reactions:
+- Acting as a base: $Al_2O_{3(s)}+6HCl_{(aq)} \rightarrow 2AlCl_{3(aq)} + 3H_2O_{(l)}$
+- Acting as an acid: $Al_2O_{3(s)}+2NaOH_{(aq)} + 3H_2O_{(l)} \rightarrow 2NaAl(OH)_{4(aq)}$
+
 ## Periodic Trends (Chemistry 25 Review)
 The size of an atom is defined to be one half of the distance between two adjacent atomic nuclei (atomic radii). Metallic radius is the size of an atom in a solid crystal structure of the element (metallic bonds). Covalent radius is the radius of molecular compound (bonding distance). Note that trends do not hold very well for transition metals.
 ### Effect of Energy Levels
@@ -128,82 +208,6 @@ Transition metals appear colored because their ions above absorb some light ener
 ![[oplkjhgfd.png]]
 
 If an ion absorbs one color is will transmit the rest of the spectrum. We observe the lack/missing wavelength, as the complementary color. (Red-green, orange-blue, yellow-purple). What affects an ion color is the type of ion, oxidation state, type of ligand (which all impact the strength of the field crystal splitting).
-## 3.0 History of the periodic table
-Gaps were left in the periodic table as Mendeleev believed that there should be an element between two, and filled them in once they were discovered.
-## 3.1 The periodic table
-### The modern periodic table
-The periodic table is organized such that the following characteristics can be determined by their position on the periodic table.
-- The elements are arranged in order of increasing atomic number
-- There is a division between metals and non-metals.
-    - The metallic elements are located left of the division, having a relatively low amount of valance electrons.
-    - Non metals are on the right of the division, having a relatively high amount of valance electrons.
-- Vertical columns, groups are distinguished using roman numerals, I to VIII (skipping transition metals) - IB uses 1 to 7 and group 0 being VIII. (IUPAC uses 1-18 to include the transition metals)
-- Horizontal rows are the periods and are numbered 1 through 7. An element belongs to a period that matches the number of its outer shell, n. Elements in the same period have the same amount of ‘shells’ occupied by electrons.
-- Hydrogen doesn’t fit neatly anywhere on the periodic table, but is typically found in group 1.
-- The group number of an element is the amount of valance electrons it has. (up to Z =20 for SL)
-    - Group 1 metals for instance, $Li, Na, K$ all have 1 valance electron.
-    - Electron configuration and valance electrons are reserved for HL
 
-![[Periodic-Table-Families.jpg]]
-## 3.2 Physical properties of the elements:
+## Multielectron Species
 
-*This does not apply too well to transition metals.
-
-Physical properties such as atomic radii, first ionization energies and melting points are examples of physical properties that experience periodicity, a repeating pattern or trend on the periodic table. A physical property is a characteristic that can be found without changing the chemical composition. For example, the melting point of an element can be found by determining the temperature at which it turns from a solid to a liquid. The element doesn’t chemically change.
-## Atomic trends
-
-![[PeriodicTable_AtomSizes-56a131193df78cf772684720.png]][The Periodic Table and Periodic Trends](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-the-periodic-table-and-periodi.html)
-### Atomic radius, AR
-Atomic radius is the distance from the center of the nucleus to the outermost region. This is measured by the distance between two adjacent atomic nuclei.
-The metallic radius is the size of an
-- The Bohr model has orbits, thus the radius can be measured easily however, we know that this model is highly simplistic as electrons are found in orbitals.
-- The way to find the radius is to measure the distance between two atoms in a diatomic molecule, $X_2$ and divide the distance between them by two; $R = \frac 1 2 d$.
-- The atomic radius increases as the effective nuclear charge, $Z_{effective}$ increases as the electrons get closer to filling their ‘shell’. A higher $Z_{Effective}$ results in a higher attraction, pulling the electrons closer to the nucleus. (Where $Z_{Effective}$ is the net positive charge from the nucleus that an electron can ‘feel’ attractions from. The core electrons are said to shield the valence electrons from the full force of the protons)
-- The atomic radius increases down the group from top to bottom as there are more shells ‘blocking’ the valence electrons from the nucleus, This results in the outer shell being further from the nucleus and having a larger atomic radius.
-
-![['p;oilukyj.png]]![[oilgfdgsh.png]]
-
-### Ionization energy, IE
-Ionization energy is the energy required to remove the highest energy electron from a neutral atom. And has the opposite correlation to electron affinity, EA and atomic radius, AR. (First ionization energy). Additionally, ionization energy increases with electronegativity as the more energy required to take away an electron strongly attracted to its nucleus, the more energy is going to be require to take it away.
-
-- In general, ionization energy increases across the period and decreases down a group.
-- Across a period, $Z_{Effective}$ increases as electron shielding remains constant. This pulls the electron cloud closer to the nucleus and strengthens the nuclear attraction to the outer-most electron. This make it more difficult to the (Additionally because the AR is smaller, and held more tightly there is a ‘higher attraction’. This lends to the the electrons being held more tightly and requiring more energy to be taken off)
-- Down a group, the number of energy levels increase and the distance is greater between the nucleus and the highest energy electron. The increased weakens the nuclear attraction to the outer-most electron, and is easier to remove.
-
-The first ionization energy is the energy required to remove the highest energy electron (1 electron). This can be represented as
-
-$$ X_g \rightarrow X_g^++e^- $$
-
-### Electronegativity
-Electronegativity is the measure of the ability of an atom in a bond to attract electrons to itself.
-
-In general, metals have few electrons in their outermost shell, and consequently lose tend to lose their electrons in reactions. Because of this they have a low electronegativity i.e. they are more willing to give up electrons than to hoard them. Non metals have an opposite tendency, the reason for this is outline below.
-
-- Electronegativity increases across a period and decreases down a group; similarly to the trends of ionization energy, IE.
-- Towards the left of the table, valance shells are less than half full, so these atoms (metals) tend to lose electrons and have a low electronegativity (meaning they would rather give off their highest energy electron than take another). Consequently, towards the right of the table, valance shells are more than half full and have a tendency to gain electrons and complete their shell.
-- Down a group, the number of energy levels increases, and so does the distance between the nucleus and the outermost orbital. The increased distance and the increased shielding weaken nuclear attraction. Thus the atom cannot attract electrons as effectively. (As the atomic radius increases, electronegativity decreases)
-- Fluorine is the most electronegative element whereas (Eka)francium has the least electronegative attraction.
-### Trends across period 3
-Properties of elements within periods are more variable than properties within groups. This can be seen in the following graphs:
-
-![[dffddgfgfdgfd.png]]
-
-![[ssfdsgf.png]]
-## 3.3 Chemical Properties of elements and their oxides
-Just as the physical properties exhibit a periodicity, within groups and periods, so do the chemical properties of the elements and some of their compounds. The chemical properties relate to the electron arrangement of the elements.
-### Trends in chemical properties within a group
-Because the alkali metals have a low ionization energy and electronegativity, they are violently reactive to the point where they need to be stored in oil (As they react with water). The reactivity of alkali metals increase down the group. The easier a substance loses electrons the better a reducing agent they are (lr), similarly the better a substance is at taking electrons, the better oxidizing agent they are, (go); explored more in unit 10. The halogens get more reactive as the period number decreases, making fluorine the most reactive halogen, the most oxidizing agent.
-### The oxides of period 3 elements
-All the period 3 elements react with oxygen and depending on the electronegativity of the period 3 element, the nature of the aqueous solution changes. For instance, $Na_2O_{(aq)}$ and $MgO_{(aq)}$ are both acidic as they are ionic whereas $P_4O_{10(aq)}$ and $SO_{3(aq)}$ are both alkaline as they are covalently bonded. When the oxides react with water, the ease at which they produce The more metallic in nature a period 3 element is the stronger it acts as an acid, the more non-metallic, the more alkaline it acts. This forms a kind of spectrum where metalloids such as aluminum are amphoteric, acting both as an acid and a base.
-
-Alkaline reactions:
-- $Na_2O_{(s)}+H_2O_{(l)} \rightarrow 2NaOH_{(aq)}$
-- $MgO_{(s)}+H_2O_{(l)} \rightarrow Mg(OH)_{2(aq)}$
-
-Acidic ration
-- $P_4O_{10(s)}+6H_2O_{(l)} \rightarrow 4H_3PO_{4(aq)}$
-- $SO_{3(g)}+H_2O_{(l)} \rightarrow H_2SO_{4(l)}$
-
-Amphoteric reactions:
-- Acting as a base: $Al_2O_{3(s)}+6HCl_{(aq)} \rightarrow 2AlCl_{3(aq)} + 3H_2O_{(l)}$
-- Acting as an acid: $Al_2O_{3(s)}+2NaOH_{(aq)} + 3H_2O_{(l)} \rightarrow 2NaAl(OH)_{4(aq)}$

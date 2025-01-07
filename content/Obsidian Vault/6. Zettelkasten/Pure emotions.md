@@ -1,3 +1,0 @@
-Fear
-Terror 
-etc. 

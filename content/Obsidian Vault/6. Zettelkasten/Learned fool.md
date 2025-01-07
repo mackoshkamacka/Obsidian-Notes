@@ -1,3 +1,0 @@
-
-#Creative/Characters/Tropes
-

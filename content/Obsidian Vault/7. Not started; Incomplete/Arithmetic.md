@@ -1,6 +1,8 @@
 2024-06-1322:39
-Status: #Incomplete 
-### Notation 
+Status: #Incomplete [[LaTeX Guide]]
+
+I could literally start from the very beginnings of arithmetic, but I'm assuming that, by reading this, you have a basic grasp of addition, subtraction etc. and a strong understanding of elementary (school) arithmetic. The following will be an index for some of the more advanced areas of arithmetic in high school (Alberta) and IB Program.  
+### Notation (I'm not doing anything like this again) 
 #### Arithmetic Operations 
 $+$ ([Plus sign](https://en.wikipedia.org/wiki/Plus_sign "Plus sign")) +
 * Denotes [addition](https://en.wikipedia.org/wiki/Addition "Addition") and is read as _plus_; for example, 3 + 2.
@@ -110,10 +112,7 @@ $≪$ and $≫$
 * Often used for denoting an [order](https://en.wikipedia.org/wiki/Partial_order "Partial order") or, more generally, a [preorder](https://en.wikipedia.org/wiki/Preorder "Preorder"), when it would be confusing or not convenient to use < and >.
 * [Sequention](https://en.wikipedia.org/wiki/Sequention "Sequention") in [asynchronous logic](https://en.wikipedia.org/wiki/Asynchronous_logic "Asynchronous logic").
 
-
-[[LaTeX Guide]]
-
-### ...
+# Topics
 [[Series]]
 [[Sequences]]
 [[Binomial Theorem]]

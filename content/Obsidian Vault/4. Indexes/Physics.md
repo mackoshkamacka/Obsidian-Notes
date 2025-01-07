@@ -1,11 +1,6 @@
 2024-06-1011:33
-Status: 
-Tags: 
-
-... [[Chemistry]]
-## 4 Realms of Mechanics 
-![[Pasted image 20240610114003.png]]
-![[Pasted image 20240610114458.jpg]]
+Tags: #IBnotes [[Chemistry]] [[Empiricism]]
+University notes: [[PHYS 106 Notes]] [[PHYS 131 Notes]]
 
 [[Classical mechanics]]
 [[Relativistic mechanics]]
@@ -13,6 +8,13 @@ Tags:
 [[Quantum field theory]]
 
 [[Uncertainty and measurement]]
+
+## 4 Realms of Mechanics
+![[Pasted image 20240610114003.png]]
+![[Pasted image 20240610114458.jpg]]
+
+
+### Source(s) 
 
 Books: 
 📔 The Oxford Solid State Basics (by S. H. Simon): 10/10! This book introduces solid state physics very pedagogically and gives a soft introduction to advanced topics like the reciprocal space. The book has funny anecdotes in the footnotes, and I really recommend the online lecture series “The Oxford Solid State Basics” on YouTube.  

@@ -1,0 +1,10 @@
+- The gay science
+- God is dead and we have killed him 
+- Lack of a unifying truth 
+- Eternal return 
+- Amor fati 
+- Perspectivism 
+- The will to power 
+- Apollonian and Dionysian 
+- Ubermensch
+- [[Nihilism]]

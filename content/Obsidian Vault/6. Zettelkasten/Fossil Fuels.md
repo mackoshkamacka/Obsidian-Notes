@@ -1,5 +1,7 @@
 2024-07-1617:36
 Status: #IBnotes 
+Tags: [[Oil and gas industry]]
+
 
 Fossil fuels were formed from the reduction of biological compounds. The partial decomposition of plant and animal matter in **hypoxic** environments resulted in the production of reservoirs of **bitumen, natural gas, and coal seams**. Coal is the most plentiful source of solid carbon energy known as **anthracite**, which began formation in the carboniferous period 286-360 million years ago. The formation of coal and other fossil fuels occurs over millions of years, pressure, and heat.
 

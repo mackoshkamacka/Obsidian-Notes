@@ -1,4 +1,0 @@
-Vanillin 
-Vitriol 
-Quicklime 
-Magnesia 

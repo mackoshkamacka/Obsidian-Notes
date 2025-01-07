@@ -1,0 +1,18 @@
+- $ ./((file name)) = run file
+- make = compile code
+- cd = change directory --> current directory = ".", parent directory = ".." e.g. cd (name of directory)
+- cp = copy --> duplicate a file
+- cp - r = copy recursive --> duplicate an entire directory
+- ls = list --> allows you to list all the different files/projects in a folder
+- mkdir = make directory -> (make a new folder)
+- mv = move -> e.g. ($mv lmao.c lol.c)
+- rm = remove file
+- rm -r = remove directory
+- rm -f = remove file (force)
+- rm -rf = remove directory forcefully --> very dangerous command lmao
+- rmdir = remove directory
+- cd ../.. go back
+- cd (by itself)
+- code (new file name) = create a new file
+- ./ = this directory
+- ctrl+l = clear directory

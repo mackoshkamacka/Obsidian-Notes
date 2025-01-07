@@ -11,6 +11,6 @@ Hidden hostility
 Tries to conserve 'traditional' values - often refering to the nuclear family, organized religion, pro [[Military]] and property rights. These people tend to be the group of people who advantage from upholding power structures. 
 
 
-Conservatism being based in fear or elitism tax policies that carter to the elite, fear mongering against gay, trans black people etc.
+Conservatism being based in fear or [[Elitism]] tax policies that carter to the elite, fear mongering against gay, trans black people etc.
 
 losing their position in society

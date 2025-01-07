@@ -2,3 +2,4 @@
 Status: #Complete 
 
 [[LaTeX Guide]]
+markdownguide.org/basic-syntax/

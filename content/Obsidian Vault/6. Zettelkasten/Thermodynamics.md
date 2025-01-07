@@ -54,15 +54,35 @@ Where $Q$ is the heat change ($J$), $m$ is mass ($kg$), $L$ is the specific late
 ### Pressure: 
 Pressure is defined as the normal force per unit area and can be expressed with the formula: 
 $$Pressure=\frac{Force}{Area} $$
-### State for an Ideal Gas 
+### Ideal Gases
 
 ![[Pasted image 20240702174609.png]]
 
 When an ideal gas is assumed, the following formula applies: 
 $$PV = nRT$$
+
 Where $P$ is pressure, $V$ is the volume of the container, $n$ is the amount of moles of the gas, $R$ is the ideal gas constant $\approx 8.314 \frac J {molK}$.
+#### Derivation
+![[Pasted image 20241125112442.png]]
+$$ \begin{gather} 
+\\ Force\ upward\ on\ surface 
+\\ = - Force\  on\ molecules 
+\\ = - Rate\  of\ change\ of\ momentum\ for\ molecules 
+\\ F = (-\Delta p_z)_{1 \ molecule} * (\# of collisions/second)
+\\F = A\frac N V (mv^2)_{AVERAGE}
+\end{gather}$$
+Where $\Delta p_z$ is the momentum of one molecule, $A$ is the area of the surface the force is applied to, $mv^2$ is the average mass times the average velocity of a particle, $V$ is the volume, $N$ is the amount of particles. 
+$$\begin{gather} P = \frac 2 3 * \frac N V * (\frac 1 2 m v^2)_{AVERAGE} 
+\\ P = \frac N V * \frac 2 3 E^{Avg}_{Kin} 
+\\ P = \frac N V * \frac R {N_A} T
+
+\end{gather} $$ 
+Where $P$ is pressure, $\frac N V$ is the number density, $E_{kin}^{avg}$ is the average kinetic energy of a particle, $R$ is the ideal gas constant, $N_A$ is Avogadro's number, and $T$ is the temperature Kelvin
 
 
+
+
+## ... 
 
 negative pressure??
 

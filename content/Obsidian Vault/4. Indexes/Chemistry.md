@@ -1,5 +1,5 @@
 2024-07-0920:03
-Tags: #IBnotes 
+Tags: #IBnotes [[Empiricism]]
 
 Fundamentals of Chemistry: 
 [[Atomic structure]]
@@ -12,9 +12,12 @@ Fundamentals of Chemistry:
 [[Acid-Bases]]
 [[Redox & Electrochemistry]]
 [[Valence Bond Theory (VBT)]]
-[[Kinetics]] 
+[[Kinetics (chem)]] 
+[[Wave-like Behavior Probability]]
+[[Conjugation and Color]]
+[[Properties of Molecules]]
 
 Branches of Chemistry 
 [[Organic chemistry]]
 [[Analytical chemistry]]
-[[Energy production]] + Option C
+[[Energy production]] 

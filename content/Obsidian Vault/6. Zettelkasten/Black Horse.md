@@ -1,2 +1,0 @@
-[[White Horse]]
-[[Allusions]]

@@ -619,3 +619,5 @@ Bref YouTube
 [IB French Ab Initio Folder | Quizlet](https://quizlet.com/canwenottho/folders/ib-french-ab-initio/sets)
 (https://global.oup.com/education/content/secondary/series/ib-french-b/?region=international
 [The Best Resources to Learn FRENCH for Free Online • Gratis Global](https://gratisglobal.com/learn-french-free/)
+https://www.typing.com/student/lesson/378/advanced-symbols
+https://ebooks.papacambridge.com/directories/IB/IB-ebooks/upload/french%20b%20-%20course%20companion%20-%20christine%20trumper%20and%20john%20israel%20-%20first%20edition%20-%20oxford%202012.pdf

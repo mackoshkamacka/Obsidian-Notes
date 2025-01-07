@@ -1,7 +1,10 @@
 2024-07-1213:41
 Status: #IBnotes 
-Tags: [[Atomic physics]] 
-## 1.0 Context
+Tags: [[Atomic physics]] [[Chemistry]]
+
+General model. 
+![[Shell-atomic-model-shell-shells-electrons-energy.webp]]
+## Context
 > Democritus, 460-370 BCE, was the first to use the term, atom to describe small indivisible particles which composed all matter. This was overshadowed by Aristotle’s fire-earth-air-water model, and prevailed through alchemy. That is until John Dalton (1766-1844) described elements and chemical reactions in terms of atomic theory. He proposed that each element was made from a unique atom. (Coming up with a symbol system that isn’t used to day) 
 ### Models of the Atom - Abridged
 Electrons were the first subatomic particle to be identified by charge by J.J. Thomson in 1899. Thomson devised a model of the atom, referred to as the Plum Pudding Model. In which negative particles were dotted throughout a mass of positive charge. This model was disproved by Rutherford’s Golden Leaf experiment in 1919. In which Rutherford discovered protons and that the nucleus was composed of small dense protons and neutrons. 20 years later, the invention of the mass spectrometer explained the true nature of isotopes. In 1932m James Chadwick identified the neutron.
@@ -90,7 +93,7 @@ TLDR:
 
 Helium neon laser:
 Helium gas atoms get excited to energy level $2S_0$ due to collisions with electrons in the tube. These Helium atoms randomly collide with neon atoms causing Helium to de-excite and neon to move to the $3S_2$ level which is metastable (atoms can be metastable for approx. $10^{-4}$s compared to the typical $10^{-8}$s). To start lasing action one atom often drops from $3S_2$ to $2P_4$. This photon triggers other atoms to also drop by the same amount of energy.
-## 1.1 The Atom
+## The Atom
 When Niels Bohr was working with Rutherford in 1913, he proposed a model of the atom that explained emission spectra that had been discovered. Bohr’s model proposed that electrons moved around the nucleus in shells, which were regions of space with fixed energies. About 100 years later, Bohr’s model is still acceptable as a model that explains the atom, although more accurate models exist.
 
 |Subatomic particle|Symbol|Mass kg|Relative mass|Charge, C|Relative charge|Position in the atom|
@@ -141,7 +144,7 @@ Medical tracers, radioactive forms of atoms, can be attached to molecules that t
 ### Ions
 Ions are atoms that have lost or gained electrons now have a net charge. A positive ion, a cation, has fewer electrons than electrons; inversely, a negative ion, an anion has more electrons than protons.
 
-## 1.2 The Mass Spectrometer
+## The Mass Spectrometer
 A mass spectrometer is an instrument that accelerates charged particles through a magnetic field. The degree to which the particles are deflected from their original path will be dependant on their charge to mass ratio; m/z ratio. The process in which this is determined is done in the following main stages:
 
 ![[mass-spectrometry-instrumentation-definition-principle.png]]
@@ -173,7 +176,14 @@ To determine the $A_r$ of an element, X, multiply the relative isotopic mass, (R
 
 $$ \begin{gather} A_r(X) = \Sigma (I_r \times abunadance⠀fraction) \newline ⠀ \newline A_r(X) = \frac{\Sigma (I_r \times abunadance⠀fraction⠀expressed ⠀as⠀a⠀percentage)}{100} \end{gather}$$
 
-## 1.3 Electron Arrangement
+## Electron Arrangement
+### Electronic Configuration 
+
+![[Pasted image 20240906153151.png]]
+
+There is a specific order in which electrons in 
+core electrons 
+
 
 ### The Electromagnetic Spectrum:
 Light consists of electromagnetic waves, where the wavelength, $\lambda$ is the distance between two crests and ranges from approximately $8 \times 10^{-7}m$ for red light and $4 \times 10^{-7}m$. The frequencies of which are $4 \times 10^{14} Hz$ and $8 \times 10^{14}Hz$ for red light and violet light respectively. This can be mathematically determined using the following formula.$$ E = \frac {hc} \lambda $$Where $E$ is the energy of the light/photon particle, $\lambda$ is the wavelength, $h$ is Planck’s constant, $c$ is the speed of light. This can be rearranged to use frequency, f (sometimes $\nu$), using the following formula:
@@ -223,3 +233,4 @@ Based off of the energy difference, the wavelengths emitted would be of differen
 ![[wadasasd.png]]![[zsdxcxz.png]]
 
 Bohr’s model of the atom explained the closeness of the emission lines in terms of the decreasing difference between the energies of the shells as their distance from the nucleus increase. The lines became closer together as their energy increase because the energy of the shells is increasing by diminishing amounts. As this progresses with the increasing amount of protons and hence electrons, the emission spectrum appear to form a spectrum. This phenomenon of ‘merging’ into a continuum is the convergence of the emission spectrum.
+

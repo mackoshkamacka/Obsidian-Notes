@@ -1,6 +1,6 @@
 2024-07-0914:08
 Status: 
-Tags: 
+Tags: [[Atomic physics]] [[Fundamental particles]]
 
-[[Atomic physics]]
-[[Fundamental particles]]
+[[Basics of quantum mechanics]]
+
