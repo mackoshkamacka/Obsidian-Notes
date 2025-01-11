@@ -19,6 +19,7 @@ University Notes: [[CPSC 110 Notes (Best Programming Practices)]] [[CPSC 121 Mod
 [[Console commands]]
 [[C language]]
 [[Python]]
+[[Java]]
 ## Competitive Programming Roadmap
 The order of subjects by topic that I find most didactic is the following:
 

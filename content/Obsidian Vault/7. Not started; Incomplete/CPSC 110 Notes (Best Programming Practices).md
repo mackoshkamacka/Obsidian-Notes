@@ -1,6 +1,6 @@
-2024-09-0514:01
-Status: #CPSC110 
-Tags: [[Computer Science]] [[Systematic design process]] 
+###### 2024-09-0514:01
+###### Status: #CPSC110 
+###### Tags: [[Computer Science]] [[Systematic design process]] 
 ## Introduction
 > The major goal of this course is to introduce students to a systematic method for solving hard design problems. Going forward in your career you will of course learn additional techniques, but the design method covered in CPSC 110 will serve you well whenever you face a difficult design problem — whether it is program design or a problem from another field entirely. 
 ### Course Principles
