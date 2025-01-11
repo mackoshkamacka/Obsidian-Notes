@@ -78,11 +78,25 @@ public class Main {
 > `It's really good! 
 
 Some other escape sequences are: `\t` adds a tab, `\"` adds a double quote, `\\` adds `\` 
+##### Concatenating Expressions 
+To add expressions together (often a variable and a string literal), use `+` to combine the expression: 
+```java
+public class Main {
+	public static void main(String[] args){
+	
+		int x = 123; //initialization 
+		System.out.println("My number is:" + x); 
+	}
+}
+```
+> *Terminal Output*
+> `My number is: 123` 
+
 #### Tips and Tricks: 
 - For Eclipse, `System.out.println();` = `sysout + Ctrl + Space`
 - For IntelliJ, `System.out.println();` = `sysout + Tab`
 - Find-replace command is very useful for changing the behavior of code. 
--  In most cases whitespace (spaces, tabs, new lines) in source code (not print statements, nor key words), do not affect the program's behavior: `System.out.print();`= `System.out.          print();`. 
+-  In most cases whitespace (spaces, tabs, new lines) in source code (not print statements, nor keywords), do not affect the program's behavior: `System.out.print();`= `System.out.          print();`. 
 
 ### Comments
 To comment code, write two forward slashes, `//` preceding the line of code that is to be commented out. To comment out multiple lines, use `/*` and `*/` to wrap a comment over multiple lines. *Eclipse will automatically add `*` at the beginning of the commented line not at the ends of the comment. However, the `*` is not necessary.* 
@@ -105,15 +119,43 @@ public class Main {
 > *Terminal output:*
 > ` ` 
 ## Variables 
+### Definition 
 #### Primitive Data Types
 There are 8 primitive (built into Java): 
 
 ![[Pasted image 20250110162145.png]]
 *The convention for float values is to end the value with 'f'
 The convention for char values is to wrap the value with single quotation marks 
-The convention for String values is to wrap the value with double quotation marks*
+The convention for String values is to wrap the value with double quotation marks
+The convention for Long values is to end the value with 'L'*
 #### Primitive vs. Reference Data Types
 ![[Pasted image 20250110163152.png]]
 #### Declaration of Variables
+- To declare a variable, state the type e.g. `int` and the variable name, say `x`. 
+	- `int x;`
+- To assign a variable to a value, ensure the value is of a valid type and 'equate' them with and equal sign. This requires the variable to first be declared (defined). 
+	- `x = 123;`
+- To initialize a variable combine the declaration and assignment of the variable into one step. 
+	- `int x = 123;` 
+### User input 
 
 
+### Manipulation 
+#### Swapping Variables 
+Think of variables as cups of different liquids. In order to swap the fluid, you need to transfer one of the liquids to a temporary cup, then transfer.
+- `x` $\to$  `temp`, then  `y` $\to$ `x`, then `temp`$\to$ `y`. 
+
+```java
+public class Main {
+	public static void main(String[] args){
+
+		String x = "water"; 
+		String y = "Kool-Aid"; 
+		String temp; 
+
+		temp = x; 
+		x = y; 
+		y = temp; 
+	}
+}
+```
