@@ -2,7 +2,6 @@
 Status: #CPSC210
 Tags: [[Java]] [[Object Oriented Programming]] 
 ###  Basics 3 
-
 #### Classes 
 - A class holds operations and data related to one concept:
 - Take a dog for instance. Data = age, breed, DNA etc. operations = bark, wag tail etc. 
@@ -55,3 +54,4 @@ myTank.move(); // Method on myTank to move the x position by one step.
 ```
 
 static = all objects share the same field.
+

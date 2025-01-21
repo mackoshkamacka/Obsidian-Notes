@@ -98,4 +98,17 @@ To take the floor of a real number, truncate the decimals or round down. (If it'
 $\lfloor \pi \rfloor = 3$, $\lfloor 3 \rfloor = 3$ 
 To take the ceiling of a real number, round up to the next integer. (If it's already an integer is stays the same) 
 $\lceil \pi \rceil = 3$, $\lceil 3 \rceil = 3$
- 
+## Propositional Logic 
+
+... 
+True = switch is on, high voltage, 1. 
+False = switch is off, low voltage, 0. 
+Circuits have binary inputs and produce outputs
+Each logical expression can be represented as a logic gate on a curcuit is a sequence of logic gates connected 
+A circuit can be represented as a proposition and a truth table. 
+Two digital logic circuits are equivalent if and only if their input/output tables are identical. 
+Put brackets all propositional statemtns with an operator except $\neg$
+
+
+f f f f is first = 0 0 0 0 = 0 
+t t t t is last = 1 1 1 1 = 31
