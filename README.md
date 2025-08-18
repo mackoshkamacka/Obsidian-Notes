@@ -1,3 +1,6 @@
+# Notes
+Here is a collection of my older notes. If my notes are not here, then they can be found with my notes [here](https://1drv.ms/o/c/d8d5f639b9ec623f/Ej9i7Lk59tUggNh9cwAAAAABHgIa0vQiIprLdf1q_rR10g?e=5FsKCE)
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
